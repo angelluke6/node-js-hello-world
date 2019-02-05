@@ -1,0 +1,22 @@
+{
+  "name": "js-hello-world",
+  "version": "1.0.0",
+  "description": "My JS server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelluke6/node-js-hello-world.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelluke6/node-js-hello-world/issues"
+  },
+  "homepage": "https://github.com/angelluke6/node-js-hello-world#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
